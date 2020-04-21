@@ -2,6 +2,10 @@
 Collection of classic image recognition models, e.g.ResNet, Alexnet, VGG19, inception_V4 in Tensorflow. 
 
 
+## The format of dataset
+Firstly, Use unzip data.zip to unzipped it, and then images belonging to different categories are placed in different folders.
+
+
 ## Training networks
 | models      | paper                                    | commands                     |  introduction       |
 | ----------  | :-----------:                            | :-----------:                |  :-----------:      |
