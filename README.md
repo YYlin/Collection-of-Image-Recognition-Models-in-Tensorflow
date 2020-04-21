@@ -18,8 +18,7 @@ Firstly, Use unzip data.zip to unzipped it, and then images belonging to differe
 | ResNet      | [ResNet](https://arxiv.org/abs/1606.03498) | `python main.py --type_of_model ResNet --resnet_type 50`  |  [ResNet](https://blog.csdn.net/qq_41776781/article/details/94459299) 
 
 ## The Accuracy of training and validing images
-![](https://www.google.com/https%3A%2F%2Fm.facebook.com%2F%25E6%25AD%25A3%25E5%25A6%25B9%25E7%25BE%258E%25E5%25A5%25B3%25E5%2588%2586%25E4%25BA%25AB%25E5%259C%2598-444042255679543%2Fcommunity%3Flocale2%3Dzh_CN)
-
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 ## An explanation
 It's easy to use the above recognition models with kears, but by reading papers and analyzing source code, which could help in improving programming ability. If you want to know basic something about these models, you can visit my [CSDN](https://blog.csdn.net/qq_41776781/category_9291732.html), 
 
