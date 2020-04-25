@@ -18,7 +18,7 @@ Firstly, Use unzip data.zip to unzipped it, and then images belonging to differe
 | ResNet      | [ResNet](https://arxiv.org/abs/1606.03498) | `python main.py --type_of_model ResNet --resnet_type 50`  |  [ResNet](https://blog.csdn.net/qq_41776781/article/details/94459299) 
 
 ## The Accuracy of training and validing images
-![image](https://github.com/YYlin/Collection-of-Image-Recognition-Models-in-Tensorflow/blob/master/Figure_1.png)
+![](https://github.com/YYlin/Collection-of-Image-Recognition-Models-in-Tensorflow/blob/master/Figure_1.png)
 
 ## An explanation
 It's easy to use the above recognition models with kears, but by reading papers and analyzing source code, which could help in improving programming ability. If you want to know basic something about these models, you can visit my [CSDN](https://blog.csdn.net/qq_41776781/category_9291732.html), 
